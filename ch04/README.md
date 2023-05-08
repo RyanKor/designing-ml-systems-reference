@@ -87,3 +87,17 @@
 43. [One pixel attack for fooling deep neural networks](https://arxiv.org/abs/1710.08864)
 
 44. [One Pixel Attack for Fooling Deep Neural Networks](https://arxiv.org/pdf/1710.08864.pdf)
+
+45. [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572)
+
+46. [DeepFool: a simple and accurate method to fool deep neural networks](https://arxiv.org/abs/1511.04599)
+
+47. [Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Supervised Learning](https://arxiv.org/abs/1704.03976)
+
+48. [In the context of deep learning, what is an ablation study?](https://www.quora.com/In-the-context-of-deep-learning-what-is-an-ablation-study)
+
+49. [mixup: BEYOND EMPIRICAL RISK MINIMIZATION](https://arxiv.org/pdf/1710.09412.pdf)
+
+50. [Data augmentation using generative adversarial networks (CycleGAN) to improve generalizability in CT segmentation tasks](https://www.nature.com/articles/s41598-019-52737-x)
+
+51. [A survey on Image Data Augmentation for Deep Learning](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-019-0197-0)
