@@ -12,7 +12,7 @@
 
 6. [150 Successful Machine Learning Models: 6 Lessons Learned at Booking.com](https://dl.acm.org/doi/10.1145/3292500.3330744)
 
-7.[Algorithmia Report Reveals 2021 Enterprise AI/ML Trends](https://www.globenewswire.com/news-release/2020/12/10/2143134/0/en/Algorithmia-Report-Reveals-2021-Enterprise-AI-ML-Trends.html)
+7. [Algorithmia Report Reveals 2021 Enterprise AI/ML Trends](https://www.globenewswire.com/news-release/2020/12/10/2143134/0/en/Algorithmia-Report-Reveals-2021-Enterprise-AI-ML-Trends.html)
 
 8. [10 companies killing it at DevOps](https://techbeacon.com/app-dev-testing/10-companies-killing-it-devops)
 
